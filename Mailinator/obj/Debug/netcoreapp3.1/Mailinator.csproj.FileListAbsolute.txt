@@ -1,0 +1,14 @@
+C:\Users\AHML\source\repos\Mailinator\Mailinator\bin\Debug\netcoreapp3.1\Mailinator.exe
+C:\Users\AHML\source\repos\Mailinator\Mailinator\obj\Debug\netcoreapp3.1\Mailinator.csprojAssemblyReference.cache
+C:\Users\AHML\source\repos\Mailinator\Mailinator\obj\Debug\netcoreapp3.1\Mailinator.AssemblyInfoInputs.cache
+C:\Users\AHML\source\repos\Mailinator\Mailinator\obj\Debug\netcoreapp3.1\Mailinator.AssemblyInfo.cs
+C:\Users\AHML\source\repos\Mailinator\Mailinator\bin\Debug\netcoreapp3.1\Mailinator.deps.json
+C:\Users\AHML\source\repos\Mailinator\Mailinator\bin\Debug\netcoreapp3.1\Mailinator.runtimeconfig.json
+C:\Users\AHML\source\repos\Mailinator\Mailinator\bin\Debug\netcoreapp3.1\Mailinator.runtimeconfig.dev.json
+C:\Users\AHML\source\repos\Mailinator\Mailinator\bin\Debug\netcoreapp3.1\Mailinator.dll
+C:\Users\AHML\source\repos\Mailinator\Mailinator\bin\Debug\netcoreapp3.1\Mailinator.pdb
+C:\Users\AHML\source\repos\Mailinator\Mailinator\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\AHML\source\repos\Mailinator\Mailinator\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\AHML\source\repos\Mailinator\Mailinator\obj\Debug\netcoreapp3.1\Mailinator.csproj.CopyComplete
+C:\Users\AHML\source\repos\Mailinator\Mailinator\obj\Debug\netcoreapp3.1\Mailinator.dll
+C:\Users\AHML\source\repos\Mailinator\Mailinator\obj\Debug\netcoreapp3.1\Mailinator.pdb
